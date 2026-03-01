@@ -1,8 +1,8 @@
 <div align="center">
-
-# T2RP
-### FiveM Scripts · Standalone · Plug & Play
-
+  <img src="./profile/banner.svg" alt="T2RP" width="100%" />
+  <br/><br/>
+  <em>FiveM Scripts &nbsp;·&nbsp; Standalone &nbsp;·&nbsp; Plug & Play</em>
+  <br/><br/>
 </div>
 
 <div align="center">
