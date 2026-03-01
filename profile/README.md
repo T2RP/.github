@@ -1,7 +1,8 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=40&duration=0&pause=0&color=FFFFFF&background=0F2027&center=true&vCenter=true&repeat=false&width=600&height=80&lines=T2RP" />
-  <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=0&pause=0&color=A0C4D8&background=0F2027&center=true&vCenter=true&repeat=false&width=600&height=40&lines=FiveM+Scripts+%7C+Standalone+%7C+Plug+%26+Play" />
+
+# T2RP
+### FiveM Scripts · Standalone · Plug & Play
+
 </div>
 
 <div align="center">
@@ -86,5 +87,7 @@ Clean, lightweight vehicle repair stations for QBox. Drop repair points anywhere
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=0&pause=0&color=A0C4D8&background=0F2027&center=true&vCenter=true&repeat=false&width=600&height=50&lines=Built+for+the+FiveM+community+%E2%80%94+open+source+%26+free+to+use" />
+
+*Built for the FiveM community — open source & free to use*
+
 </div>
