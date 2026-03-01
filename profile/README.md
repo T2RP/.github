@@ -1,14 +1,8 @@
 <div align="center">
-
-████████╗██████╗ ██████╗ ██████╗
-╚══██╔══╝╚════██╗██╔══██╗██╔══██╗
-   ██║    █████╔╝██████╔╝██████╔╝
-   ██║   ██╔═══╝ ██╔══██╗██╔═══╝
-   ██║   ███████╗██║  ██║██║
-   ╚═╝   ╚══════╝╚═╝  ╚═╝╚═╝
-
-*FiveM Scripts &nbsp;·&nbsp; Standalone &nbsp;·&nbsp; Plug & Play*
-
+  <img src="./profile/banner.svg" alt="T2RP" width="100%" />
+  <br/><br/>
+  <em>FiveM Scripts &nbsp;·&nbsp; Standalone &nbsp;·&nbsp; Plug & Play</em>
+  <br/><br/>
 </div>
 
 <div align="center">
@@ -72,7 +66,17 @@ Clean, lightweight vehicle repair stations for QBox. Drop repair points anywhere
 
 > **Drop-in simplicity.** Folder in resources, one line in `server.cfg`, done. No SQL migrations, no wrapper setup, no nonsense.
 
+---
 
+## 📦 Installation (any resource)
+
+```
+1. Place the resource folder in your /resources directory
+2. Add:  ensure <resource-name>  to server.cfg
+3. Restart or run:  refresh  →  start <resource-name>
+```
+
+---
 
 ## 📫 Contact
 
