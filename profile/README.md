@@ -1,4 +1,6 @@
-![Welcome](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=180&section=header&text=T2RP&fontSize=52&fontColor=ffffff&desc=FiveM+Scripts+%7C+Standalone+%7C+Plug+%26+Play&descSize=18&descAlignY=75)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=180&section=header&text=T2RP&fontSize=52&fontColor=ffffff&desc=FiveM+Scripts+%7C+Standalone+%7C+Plug+%26+Play&descSize=18&descAlignY=75" width="100%" />
+</div>
 
 <div align="center">
 
@@ -81,4 +83,6 @@ Clean, lightweight vehicle repair stations for QBox. Drop repair points anywhere
 
 ---
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:203a43,100:0f2027&height=120&section=footer)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:203a43,100:0f2027&height=120&section=footer" width="100%" />
+</div>
