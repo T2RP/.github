@@ -1,71 +1,15 @@
 <div align="center">
 
-<svg xmlns="http://www.w3.org/2000/svg" width="441" height="204" viewBox="0 0 441 204">
-  <rect width="441" height="204" fill="#0d1117"/>
-  <!-- T -->
-  <rect x="30" y="30" width="18" height="18" fill="#b0b8c8" stroke="#e07030" stroke-width="2" rx="1"/>
-  <rect x="51" y="30" width="18" height="18" fill="#b0b8c8" stroke="#e07030" stroke-width="2" rx="1"/>
-  <rect x="72" y="30" width="18" height="18" fill="#b0b8c8" stroke="#e07030" stroke-width="2" rx="1"/>
-  <rect x="93" y="30" width="18" height="18" fill="#b0b8c8" stroke="#e07030" stroke-width="2" rx="1"/>
-  <rect x="114" y="30" width="18" height="18" fill="#b0b8c8" stroke="#e07030" stroke-width="2" rx="1"/>
-  <rect x="72" y="51" width="18" height="18" fill="#b0b8c8" stroke="#e07030" stroke-width="2" rx="1"/>
-  <rect x="72" y="72" width="18" height="18" fill="#b0b8c8" stroke="#e07030" stroke-width="2" rx="1"/>
-  <rect x="72" y="93" width="18" height="18" fill="#b0b8c8" stroke="#e07030" stroke-width="2" rx="1"/>
-  <rect x="72" y="114" width="18" height="18" fill="#b0b8c8" stroke="#e07030" stroke-width="2" rx="1"/>
-  <rect x="72" y="135" width="18" height="18" fill="#b0b8c8" stroke="#e07030" stroke-width="2" rx="1"/>
-  <rect x="72" y="156" width="18" height="18" fill="#b0b8c8" stroke="#e07030" stroke-width="2" rx="1"/>
-  <!-- 2 -->
-  <rect x="144" y="30" width="18" height="18" fill="#b0b8c8" stroke="#e07030" stroke-width="2" rx="1"/>
-  <rect x="165" y="30" width="18" height="18" fill="#b0b8c8" stroke="#e07030" stroke-width="2" rx="1"/>
-  <rect x="186" y="30" width="18" height="18" fill="#b0b8c8" stroke="#e07030" stroke-width="2" rx="1"/>
-  <rect x="207" y="30" width="18" height="18" fill="#b0b8c8" stroke="#e07030" stroke-width="2" rx="1"/>
-  <rect x="207" y="51" width="18" height="18" fill="#b0b8c8" stroke="#e07030" stroke-width="2" rx="1"/>
-  <rect x="207" y="72" width="18" height="18" fill="#b0b8c8" stroke="#e07030" stroke-width="2" rx="1"/>
-  <rect x="165" y="93" width="18" height="18" fill="#b0b8c8" stroke="#e07030" stroke-width="2" rx="1"/>
-  <rect x="186" y="93" width="18" height="18" fill="#b0b8c8" stroke="#e07030" stroke-width="2" rx="1"/>
-  <rect x="207" y="93" width="18" height="18" fill="#b0b8c8" stroke="#e07030" stroke-width="2" rx="1"/>
-  <rect x="144" y="114" width="18" height="18" fill="#b0b8c8" stroke="#e07030" stroke-width="2" rx="1"/>
-  <rect x="144" y="135" width="18" height="18" fill="#b0b8c8" stroke="#e07030" stroke-width="2" rx="1"/>
-  <rect x="144" y="156" width="18" height="18" fill="#b0b8c8" stroke="#e07030" stroke-width="2" rx="1"/>
-  <rect x="165" y="156" width="18" height="18" fill="#b0b8c8" stroke="#e07030" stroke-width="2" rx="1"/>
-  <rect x="186" y="156" width="18" height="18" fill="#b0b8c8" stroke="#e07030" stroke-width="2" rx="1"/>
-  <rect x="207" y="156" width="18" height="18" fill="#b0b8c8" stroke="#e07030" stroke-width="2" rx="1"/>
-  <!-- R -->
-  <rect x="237" y="30" width="18" height="18" fill="#b0b8c8" stroke="#e07030" stroke-width="2" rx="1"/>
-  <rect x="258" y="30" width="18" height="18" fill="#b0b8c8" stroke="#e07030" stroke-width="2" rx="1"/>
-  <rect x="279" y="30" width="18" height="18" fill="#b0b8c8" stroke="#e07030" stroke-width="2" rx="1"/>
-  <rect x="237" y="51" width="18" height="18" fill="#b0b8c8" stroke="#e07030" stroke-width="2" rx="1"/>
-  <rect x="300" y="51" width="18" height="18" fill="#b0b8c8" stroke="#e07030" stroke-width="2" rx="1"/>
-  <rect x="237" y="72" width="18" height="18" fill="#b0b8c8" stroke="#e07030" stroke-width="2" rx="1"/>
-  <rect x="300" y="72" width="18" height="18" fill="#b0b8c8" stroke="#e07030" stroke-width="2" rx="1"/>
-  <rect x="237" y="93" width="18" height="18" fill="#b0b8c8" stroke="#e07030" stroke-width="2" rx="1"/>
-  <rect x="258" y="93" width="18" height="18" fill="#b0b8c8" stroke="#e07030" stroke-width="2" rx="1"/>
-  <rect x="279" y="93" width="18" height="18" fill="#b0b8c8" stroke="#e07030" stroke-width="2" rx="1"/>
-  <rect x="237" y="114" width="18" height="18" fill="#b0b8c8" stroke="#e07030" stroke-width="2" rx="1"/>
-  <rect x="279" y="114" width="18" height="18" fill="#b0b8c8" stroke="#e07030" stroke-width="2" rx="1"/>
-  <rect x="237" y="135" width="18" height="18" fill="#b0b8c8" stroke="#e07030" stroke-width="2" rx="1"/>
-  <rect x="300" y="135" width="18" height="18" fill="#b0b8c8" stroke="#e07030" stroke-width="2" rx="1"/>
-  <rect x="237" y="156" width="18" height="18" fill="#b0b8c8" stroke="#e07030" stroke-width="2" rx="1"/>
-  <rect x="300" y="156" width="18" height="18" fill="#b0b8c8" stroke="#e07030" stroke-width="2" rx="1"/>
-  <!-- P -->
-  <rect x="330" y="30" width="18" height="18" fill="#b0b8c8" stroke="#e07030" stroke-width="2" rx="1"/>
-  <rect x="351" y="30" width="18" height="18" fill="#b0b8c8" stroke="#e07030" stroke-width="2" rx="1"/>
-  <rect x="372" y="30" width="18" height="18" fill="#b0b8c8" stroke="#e07030" stroke-width="2" rx="1"/>
-  <rect x="330" y="51" width="18" height="18" fill="#b0b8c8" stroke="#e07030" stroke-width="2" rx="1"/>
-  <rect x="393" y="51" width="18" height="18" fill="#b0b8c8" stroke="#e07030" stroke-width="2" rx="1"/>
-  <rect x="330" y="72" width="18" height="18" fill="#b0b8c8" stroke="#e07030" stroke-width="2" rx="1"/>
-  <rect x="393" y="72" width="18" height="18" fill="#b0b8c8" stroke="#e07030" stroke-width="2" rx="1"/>
-  <rect x="330" y="93" width="18" height="18" fill="#b0b8c8" stroke="#e07030" stroke-width="2" rx="1"/>
-  <rect x="351" y="93" width="18" height="18" fill="#b0b8c8" stroke="#e07030" stroke-width="2" rx="1"/>
-  <rect x="372" y="93" width="18" height="18" fill="#b0b8c8" stroke="#e07030" stroke-width="2" rx="1"/>
-  <rect x="330" y="114" width="18" height="18" fill="#b0b8c8" stroke="#e07030" stroke-width="2" rx="1"/>
-  <rect x="330" y="135" width="18" height="18" fill="#b0b8c8" stroke="#e07030" stroke-width="2" rx="1"/>
-  <rect x="330" y="156" width="18" height="18" fill="#b0b8c8" stroke="#e07030" stroke-width="2" rx="1"/>
-</svg>
+```
+████████╗██████╗ ██████╗ ██████╗
+╚══██╔══╝╚════██╗██╔══██╗██╔══██╗
+   ██║    █████╔╝██████╔╝██████╔╝
+   ██║   ██╔═══╝ ██╔══██╗██╔═══╝
+   ██║   ███████╗██║  ██║██║
+   ╚═╝   ╚══════╝╚═╝  ╚═╝╚═╝
+```
 
-<br/>
-<em>FiveM Scripts &nbsp;·&nbsp; Standalone &nbsp;·&nbsp; Plug & Play</em>
-<br/><br/>
+*FiveM Scripts &nbsp;·&nbsp; Standalone &nbsp;·&nbsp; Plug & Play*
 
 </div>
 
@@ -130,17 +74,7 @@ Clean, lightweight vehicle repair stations for QBox. Drop repair points anywhere
 
 > **Drop-in simplicity.** Folder in resources, one line in `server.cfg`, done. No SQL migrations, no wrapper setup, no nonsense.
 
----
 
-## 📦 Installation (any resource)
-
-```
-1. Place the resource folder in your /resources directory
-2. Add:  ensure <resource-name>  to server.cfg
-3. Restart or run:  refresh  →  start <resource-name>
-```
-
----
 
 ## 📫 Contact
 
