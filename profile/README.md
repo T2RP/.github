@@ -1,126 +1,90 @@
 <div align="center">
-
-```
+<pre>
 ████████╗██████╗ ██████╗ ██████╗
 ╚══██╔══╝╚════██╗██╔══██╗██╔══██╗
    ██║    █████╔╝██████╔╝██████╔╝
    ██║   ██╔═══╝ ██╔══██╗██╔═══╝
    ██║   ███████╗██║  ██║██║
    ╚═╝   ╚══════╝╚═╝  ╚═╝╚═╝
-```
+</pre>
 
-**Standalone FiveM scripts built for immersion, performance, and plug-and-play simplicity.**
+*FiveM Scripts &nbsp;·&nbsp; Standalone &nbsp;·&nbsp; Plug & Play*
 
-*No bloat. No mandatory frameworks. Just drop it in and go.*
+</div>
 
-[![GitHub Org](https://img.shields.io/badge/github-T2RP-181717?style=for-the-badge&logo=github)](https://github.com/T2RP)
-[![Language](https://img.shields.io/badge/language-Lua-2C2D72?style=for-the-badge&logo=lua)](https://github.com/T2RP)
-[![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)](https://github.com/T2RP)
-[![Framework](https://img.shields.io/badge/frameworks-QBCore%20%7C%20QBox%20%7C%20ESX%20%7C%20Standalone-blue?style=for-the-badge)](https://github.com/T2RP)
+<div align="center">
+
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/VV7TqR7dE3)
+[![GitHub](https://img.shields.io/badge/GitHub-T2RP-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/T2RP)
+[![Language](https://img.shields.io/badge/Language-Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)](https://github.com/T2RP)
+[![License](https://img.shields.io/badge/License-MIT-22c55e?style=for-the-badge)](https://github.com/T2RP)
 
 </div>
 
 ---
 
-## 🗂️ Resources
+## 🚀 About T2RP
+
+- 🎮 Open-source **FiveM scripts** built for immersion and performance
+- 🔧 Focused on **clean code, zero bloat, and plug-and-play installs**
+- 🧠 Written in **Lua** — optimised for real server environments
+- ✅ Everything works **standalone** — framework support is always additive, never a requirement
+- 🤝 Maintained by [@zixja](https://github.com/zixja)
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+[![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)](https://github.com/T2RP)
+[![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)](https://github.com/T2RP)
+[![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql)](https://github.com/T2RP)
+[![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/T2RP)
+
+### Frameworks / Tools
+
+[![FiveM](https://img.shields.io/badge/FiveM-F40552?style=for-the-badge)](https://github.com/T2RP)
+[![QBCore](https://img.shields.io/badge/QBCore-0052CC?style=for-the-badge)](https://github.com/T2RP)
+[![QBox](https://img.shields.io/badge/QBox-6f42c1?style=for-the-badge)](https://github.com/T2RP)
+[![ESX](https://img.shields.io/badge/ESX-e67e22?style=for-the-badge)](https://github.com/T2RP)
+[![OX_Lib](https://img.shields.io/badge/OX__Lib-000000?style=for-the-badge)](https://github.com/T2RP)
+
+---
+
+## 📌 Featured Scripts
 
 ### 🔫 [gang_aggression](https://github.com/T2RP/gang_aggression)
-> *Standalone gang NPC aggression system*
-
-Arm yourself near a gang member and face the consequences. Gang NPCs react with hostility when aimed at or approached while armed, call for backup, and lock into combat mode until the threat is neutralised.
-
-- Aim detection & proximity aggression
-- Backup system with configurable ped cap
-- Combat attribute locking — peds don't snap back to passive
-- Works with **QBCore · QBox · ESX · Vanilla**
-- Zero server-side code
-
----
+Standalone gang NPC aggression system. Aim at a gang member or get too close while armed — they'll fight back and call for backup. Combat-locked, performance-friendly, and fully configurable.
 
 ### 💥 [gang-raid](https://github.com/T2RP/gang-raid)
-> *Wave-based gang hideout raid script*
-
-Hit randomized gang hideouts in tense, wave-based gunfights. NPCs are server-synced, loot crates drop on completion, police dispatch fires automatically, and every detail is configurable.
-
-- Server-synced NPC spawns across randomized locations
-- Wave-based combat with escalating difficulty
-- Loot crate rewards on completion
-- Police dispatch integration
-- Full support for **QBCore · QBox · qb-target · ox_target · ox_inventory**
-
----
+Wave-based gang hideout raid script. Server-synced NPCs, randomized locations, loot crates, police dispatch, and full QBCore / QBox / ox_target / ox_inventory support.
 
 ### 🔧 [t2_repairstation](https://github.com/T2RP/t2_repairstation)
-> *Vehicle repair stations for QBox*
-
-Clean, lightweight vehicle repair station script built for QBox. Drop repair points anywhere on the map with minimal configuration.
-
-- Configurable repair station locations
-- Built for **QBox**
-- Lightweight and dependency-minimal
+Clean, lightweight vehicle repair stations for QBox. Drop repair points anywhere on the map with minimal config.
 
 ---
 
-## ⚡ Philosophy
+## ⚡ Our Philosophy
 
-Every script in this org is built around three rules:
+> **Standalone first.** Scripts work without a framework — framework support is layered on top, never as a hard dependency.
 
-**1. Standalone first** — Scripts work without a framework. Framework support is added on top, never as a requirement.
+> **Performance matters.** No `GetGamePool` spam, no unnecessary server events, no bloated requires. Every loop earns its place.
 
-**2. Performance matters** — No `GetGamePool` spam, no unnecessary server calls, no bloated dependencies. Every loop is lean.
+> **Drop-in simplicity.** Folder in resources, one line in `server.cfg`, done. No SQL migrations, no wrapper setup, no nonsense.
 
-**3. Drop-in simplicity** — Copy the folder, add one line to `server.cfg`, done. No SQL migrations, no exports to configure, no framework wrappers to set up.
 
----
 
-## 🛠️ Framework Compatibility
+## 📫 Contact
 
-All public resources in this org support the following out of the box:
-
-| Framework | Supported |
-|-----------|:---------:|
-| Vanilla FiveM | ✅ |
-| QBCore | ✅ |
-| QBox | ✅ |
-| ESX | ✅ |
-
----
-
-## 📦 Installation (any resource)
-
-```bash
-# 1. Clone or download the resource folder into your resources directory
-cd resources
-git clone https://github.com/T2RP/<resource-name>
-
-# 2. Add to server.cfg
-ensure <resource-name>
-
-# 3. Restart or refresh
-refresh
-start <resource-name>
-```
-
----
-
-## 🗺️ Roadmap
-
-- [ ] Territory-based gang aggression zones
-- [ ] Alliance system — friendly gang logic
-- [ ] Additional raid locations and loot tables
-- [ ] Configurable wanted-level integration across scripts
-- [ ] Blip support for active gang events
-
----
-
-## 📄 License
-
-All repositories are released under the **MIT License** — free to use, modify, and redistribute. Credit appreciated but not required.
+- 💬 Discord: **zixmy**
+- 📧 Email: [zix.info@protonmail.com](mailto:zix.info@protonmail.com)
+- 🐙 Personal GitHub: [@zixja](https://github.com/zixja)
 
 ---
 
 <div align="center">
 
-*Built for the FiveM community — contributions, issues, and suggestions always welcome.*
+*Built for the FiveM community — open source & free to use*
 
 </div>
